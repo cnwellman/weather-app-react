@@ -77,7 +77,10 @@ export default function Weather() {
         <div className="weather-forecast" id="forecast"></div>
       </div>
       <small>
-        <a href="https://github.com/cnwellman/my-weather-app" target="_blank">
+        <a
+          href="https://github.com/cnwellman/weather-app-react"
+          target="_blank"
+        >
           Open-source code
         </a>
         <span> by Chelsea Wellman</span>
